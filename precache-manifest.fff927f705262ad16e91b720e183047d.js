@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cb9ece2f9cffc709952fc364d81edce5",
+    "revision": "bebab8dcd41b33c45dfc408dd5902d93",
     "url": "./index.html"
   },
   {
-    "revision": "366a6ad7a63fa5a15b0a",
+    "revision": "123d8e7eb5dc4c37a8df",
     "url": "./static/css/main.7ac83e13.chunk.css"
   },
   {
-    "revision": "e59344fff1b58bddf153",
-    "url": "./static/js/2.dac58688.chunk.js"
+    "revision": "aa75592948ec55d86855",
+    "url": "./static/js/2.db891165.chunk.js"
   },
   {
-    "revision": "366a6ad7a63fa5a15b0a",
-    "url": "./static/js/main.faeecb77.chunk.js"
+    "revision": "123d8e7eb5dc4c37a8df",
+    "url": "./static/js/main.0c353387.chunk.js"
   },
   {
     "revision": "1a27038c5115d044f6f9",
@@ -250,6 +250,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "650fd58b94e9b75dc4cb5613bb3ba098",
     "url": "./static/media/stingray-cares.650fd58b.png"
+  },
+  {
+    "revision": "84c8364706417b1aa13004e90b01ef1c",
+    "url": "./static/media/stingray-cares.84c83647.svg"
   },
   {
     "revision": "c2533024a5af0bc0090633fe9eefcb7e",
