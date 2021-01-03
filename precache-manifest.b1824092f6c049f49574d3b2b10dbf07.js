@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "38d27da06f3ed95f5bf001d3d109c735",
+    "revision": "ebe8c0fa2b372aa05b7a854a0662684f",
     "url": "./index.html"
   },
   {
-    "revision": "43055c54507e01e00620",
+    "revision": "8893e76467762d0862b5",
     "url": "./static/css/main.462bf8bd.chunk.css"
   },
   {
-    "revision": "89f6f9f437e43348e24a",
-    "url": "./static/js/2.8facce88.chunk.js"
+    "revision": "b34dd8f10256e55a3b97",
+    "url": "./static/js/2.053d0f91.chunk.js"
   },
   {
-    "revision": "43055c54507e01e00620",
-    "url": "./static/js/main.d8e70ef0.chunk.js"
+    "revision": "8893e76467762d0862b5",
+    "url": "./static/js/main.21996e28.chunk.js"
   },
   {
     "revision": "1a27038c5115d044f6f9",
@@ -82,6 +82,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d6d4086fb1cade58b3f786620e17c3ef",
     "url": "./static/media/contactMail.d6d4086f.png"
+  },
+  {
+    "revision": "0d6ce282e40b7ec35b4a89ae9feb6e63",
+    "url": "./static/media/cryptocurrency.0d6ce282.svg"
   },
   {
     "revision": "434d2b012c3efc3da1ef90549a50f46b",
