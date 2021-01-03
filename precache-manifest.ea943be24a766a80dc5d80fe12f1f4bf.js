@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "85592abe251a5572b87d5f5118e57532",
+    "revision": "38d27da06f3ed95f5bf001d3d109c735",
     "url": "./index.html"
   },
   {
-    "revision": "a933007d99d2008f0019",
+    "revision": "43055c54507e01e00620",
     "url": "./static/css/main.462bf8bd.chunk.css"
   },
   {
-    "revision": "aa75592948ec55d86855",
-    "url": "./static/js/2.db891165.chunk.js"
+    "revision": "89f6f9f437e43348e24a",
+    "url": "./static/js/2.8facce88.chunk.js"
   },
   {
-    "revision": "a933007d99d2008f0019",
-    "url": "./static/js/main.8935406a.chunk.js"
+    "revision": "43055c54507e01e00620",
+    "url": "./static/js/main.d8e70ef0.chunk.js"
   },
   {
     "revision": "1a27038c5115d044f6f9",
@@ -220,12 +220,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/manOnTable.52be3144.svg"
   },
   {
+    "revision": "e9530d0b18f82deb6c0668d2ead5f50d",
+    "url": "./static/media/money-back-guarantee.e9530d0b.svg"
+  },
+  {
     "revision": "db6c1c0dddd4c868e00a3cffa1078e49",
     "url": "./static/media/muffito_logo.db6c1c0d.png"
   },
   {
     "revision": "cd7077f7a08bffdb11e13093424e13fd",
     "url": "./static/media/nptel_logo.cd7077f7.png"
+  },
+  {
+    "revision": "845bcaf46e21a4264acb01242925fff4",
+    "url": "./static/media/observation.845bcaf4.svg"
   },
   {
     "revision": "6e7dc5ad476dd2d57600bca9521f3a5d",
